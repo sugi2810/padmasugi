@@ -15,11 +15,6 @@ Currently building **Mempulse** — a multi-chain mempool intelligence platform 
 
 Go · PostgreSQL · Redis · Kafka · gRPC · Docker · Kubernetes · Prometheus
 
-## Currently Learning
-
-Go backend engineering through daily structured practice.
-Every concept is applied directly to Mempulse — no toy projects.
-
 ## Open To
 
 Backend infrastructure roles at Web3 companies.
